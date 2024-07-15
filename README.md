@@ -9,5 +9,6 @@ Takes three user inputs, stores them as variables and uses them in the calculati
 
 # Proud of
 Did my own CSS and styling.
-Using opacity, 
+Confidence with display: flex;, and playing around with the opacity property.
+
 <img width="604" alt="Drips Drops " src="https://github.com/user-attachments/assets/2e9673e5-4d8a-4921-80a4-767074edeb68">
