@@ -7,7 +7,7 @@ Built to practise JavaScript create-react-apps. The theme was inspired from my t
 
 Takes three user inputs, stores them as variables and uses them in the calculation to supply the correct answer. The input fields take only numbers and the "Answer" button can not be clicked unless all three inputs are supplied. After the answer is given the input fields are automatically cleared for the users convenicens. 
 
-# Proud of
+## Proud of
 Did my own CSS and styling.
 Confidence with display: flex;, and playing around with the opacity property.
 
